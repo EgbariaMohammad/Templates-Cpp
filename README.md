@@ -8,4 +8,5 @@ In the repo you will find the following Tempaltes:
  - AVLTree.h
  - UnionFind.h
  - HashTable.h
+
 NOTE: the templates doesn't use STL but rather Implement everything from scratch, thus, you may not have all the features you'd usually have in an STL Container
